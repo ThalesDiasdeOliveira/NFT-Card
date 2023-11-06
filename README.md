@@ -1,6 +1,5 @@
-# Meu portifólio
+# NFT Card preview
 ![portifólio](./images/card.png)
-Projetos desenvolvidos 🤍
 
 ## Tecnologias usadas no projeto
 - HTML
@@ -10,5 +9,5 @@ Projetos desenvolvidos 🤍
 ![gif do projeto](./images/card.gif)
 
 ## Link
-[https://thalesdiasdeoliveira.github.io/portifolio/](https://thalesdiasdeoliveira.github.io/portifolio/)
+[https://thalesdiasdeoliveira.github.io/NFT-Card/](https://thalesdiasdeoliveira.github.io/NFT-Card/)
 
